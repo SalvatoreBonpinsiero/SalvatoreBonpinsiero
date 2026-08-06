@@ -1,30 +1,29 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/6.30.13VincentPastoreByLuigiNovi1.jpg" width="200" style="border-radius: 50%;" alt="Salvatore Bonpensiero"/>
-</p>
+<div align="center">
 
-<h1 align="center">Salvatore Bonpensiero</h1>
-<p align="center">
-  <em>Code. Create. Conquer.</em>
-</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/6.30.13VincentPastoreByLuigiNovi1.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #0088cc;" alt="Salvatore Bonpensiero"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+# ⚡ Salvatore Bonpensiero
+**`Code` • `Create` • `Conquer`**
 
----
+*Разработка автоматизации, мобильных приложений, скриптов и эксклюзивных цифровых активов*
 
-### 👋 About Me
-I am a dual citizen of **Italy** and **Russia**, bringing a unique blend of European flair and technical precision to the digital world.
+<br/>
 
-- 🔭 **Developer:** Specializing in **Python** and **HTML**.
-- 📦 **Merchant:** Selling high-quality automation scripts and exclusive **NFT gifts** directly via Telegram.
-- 💬 **Contact:** Reach me on Telegram: **@thesopranonft**
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thesopranonft)
 
 ---
 
-### ⚡ Quick Stats
+</div>
+
+### 👤 Обо мне
+
+Гражданин **Италии** и **России**. Объединяю европейский подход к деталям и сильную техническую базу для создания эффективных цифровых решений.
+
 ```text
-🖥️  Languages:  Python (90%), HTML (85%)
-🌍  Location:    Italy / Russia
-🎁  Specialty:  NFTs & Telegram Scripting
+├── 🔭 Разработка:   Kotlin, Lua, Python-автоматизация и веб-интерфейсы на HTML
+├── 📦 Коммерция:    Продажа приватных авто-скриптов и эксклюзивных NFT-подарков
+└── 💬 Связь:        Прямой контакт в Telegram — @thesopranonft
